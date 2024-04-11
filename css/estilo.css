@@ -16,7 +16,7 @@
   border-radius: 15px;
   background: #1E1E1E;
   display: flex;
-  
+position: absolute;
 }
 
 .perfil {
@@ -26,6 +26,7 @@
   width: 400px;
   display: flex;  
   background-color: #1E1E1E;
+text-align: left;
 }
 
 img {
